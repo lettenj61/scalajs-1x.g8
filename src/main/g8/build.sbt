@@ -22,7 +22,7 @@ lazy val root = project
   .settings(
     publish       := {},
     publishLocal  := {},
-    name          := s"$$repo-root"
+    name          := s"\$repo-root"
   )
 
 
