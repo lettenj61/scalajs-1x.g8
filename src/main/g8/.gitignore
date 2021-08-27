@@ -16,3 +16,7 @@ project/project/
 .lib/
 
 
+### My favorites
+
+.vscode/
+.metals/
